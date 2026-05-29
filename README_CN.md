@@ -27,11 +27,9 @@ git clone https://github.com/yourusername/studyflow.git
 ### 2. 选择你的 AI 工具
 
 StudyFlow 适配任意 AI 工具：
-- ChatGPT
-- Claude
-- Kimi
-- DeepSeek
-- 其他 AI 助手
+- ChatGPT Codex
+- Claude Code
+- 任意其他 AI 工具
 
 ### 3. 初始化你的画像
 
