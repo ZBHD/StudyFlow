@@ -70,9 +70,9 @@ StudyFlow includes two pre-built agents. Copy the `agents/` directory to your pr
 
 ## Documentation
 
-- [Quick Start Guide](setup/quick-start.md) - 5-minute setup
-- [AI Tool Setup](setup/ai-setup.md) - Configure your AI tool
-- [Full Setup Guide](setup/full-setup.md) - Complete configuration
+- [Quick Start Guide](setup/quick-start.md) / [快速开始](setup/quick-start-cn.md) - 5-minute setup
+- [AI Tool Setup](setup/ai-setup.md) / [AI 工具配置](setup/ai-setup-cn.md) - Configure your AI tool
+- [Full Setup Guide](setup/full-setup.md) / [完整设置](setup/full-setup-cn.md) - Complete configuration
 - [Information Collection](collect/README.md) - How the collection process works
 
 ## Architecture

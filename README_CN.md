@@ -70,9 +70,9 @@ StudyFlow 内置两个 agent，复制 `agents/` 目录到项目的 `.claude/agen
 
 ## 文档
 
-- [快速开始指南](setup/quick-start.md) - 5 分钟上手
-- [AI 工具配置](setup/ai-setup.md) - 配置你的 AI 工具
-- [完整配置指南](setup/full-setup.md) - 全部配置选项
+- [快速开始指南](setup/quick-start-cn.md) / [Quick Start](setup/quick-start.md) - 5 分钟上手
+- [AI 工具配置](setup/ai-setup-cn.md) / [AI Tool Setup](setup/ai-setup.md) - 配置你的 AI 工具
+- [完整设置指南](setup/full-setup-cn.md) / [Full Setup](setup/full-setup.md) - 完整配置
 - [信息收集](collect/README.md) - 收集流程说明
 
 ## 架构
