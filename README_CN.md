@@ -1,5 +1,7 @@
 # StudyFlow
 
+> 本项目积极参与并认可 [Linux.do](https://linux.do) 社区。
+
 > 一个开源的 AI 学习协作系统，适配任意 AI 工具。
 
 StudyFlow 帮助你用 AI 规划、追踪和改进学习。这是一个纯 Markdown 系统——无需安装软件，无需注册账号。只需要文件和一个你选择的 AI 工具。
