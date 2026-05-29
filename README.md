@@ -16,6 +16,43 @@ StudyFlow helps you plan, track, and improve your learning with AI assistance. I
 - **Habit Building**: Statistics, weak point tracking, and progress visualization
 - **Universal Design**: Works for students, professionals, self-learners, and anyone who wants to learn systematically
 
+## Why StudyFlow?
+
+### The Problem
+
+- No learning plan — study when you feel like it, skip when you don't
+- Forget what you learned — review depends on luck
+- AI answers your questions, but doesn't know you
+- Ask AI for a plan, get generic advice
+- Learning apps lock your data in their platform
+
+### The Solution
+
+**Your data is always yours.** Switch AI tools? Just send your files to the new one.
+
+| Approach | Pros | Cons |
+|----------|------|------|
+| Learning Apps | Nice UI | Data locked in, lose everything when switching |
+| Databases | Structured | Needs deployment, maintenance |
+| **Markdown** | **Universal, readable, version-controllable** | Manage files yourself |
+
+Markdown is the only format that satisfies all of these:
+1. **Human-readable** — Open and see
+2. **AI-readable** — All AI tools support it
+3. **Git-manageable** — Version control, history, collaboration
+4. **Tool-agnostic** — VS Code, Obsidian, Notepad all work
+
+### Comparison
+
+| Feature | StudyFlow | Learning Apps | Manual |
+|---------|-----------|---------------|--------|
+| Data Ownership | ✅ Your files | ❌ Locked in | ✅ Yours |
+| AI Compatibility | ✅ Any AI | ❌ Bound | ❌ No AI |
+| Learning Curve | Low | Low | High |
+| Collaboration | ✅ Git | Limited | ❌ |
+| Price | Free | Paid | Free |
+| Customization | ✅ Fully | Limited | ✅ |
+
 ## Quick Start
 
 ### 1. Get the System
@@ -133,8 +170,19 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Why Open Source?
+
+Learning should not be proprietary.
+
+Your learning methods, your notes, your review plans — these are your intellectual assets. They shouldn't be locked in any platform.
+
+StudyFlow uses the most open format (Markdown), the most open workflow (Git), and the most open license (MIT) to give you full control over your learning data.
+
+**If you share this vision, welcome to Star, Fork, and PR.**
+
 ## Acknowledgments
 
 - Built with the belief that learning should be systematic, not chaotic
 - Designed for humans, powered by AI
 - Inspired by spaced repetition, active recall, and deliberate practice
+- Thanks to the [Linux.do](https://linux.do) community for support and feedback
