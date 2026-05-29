@@ -29,11 +29,9 @@ Or download the ZIP and extract it.
 ### 2. Choose Your AI Tool
 
 StudyFlow works with any AI tool:
-- ChatGPT
-- Claude
-- Kimi
-- DeepSeek
-- Any other AI assistant
+- ChatGPT Codex
+- Claude Code
+- Any other AI tool
 
 ### 3. Initialize Your Profile
 
