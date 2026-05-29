@@ -62,6 +62,12 @@ I'm learning [topic]. Read my ability map in core/user/ability-map.md and explai
 Let me report today's progress. Read my current plan in workflow/planning/current-stage.md.
 ```
 
+**For Claude Code users:**
+
+StudyFlow includes two pre-built agents. Copy the `agents/` directory to your project's `.claude/agents/` to enable them:
+- `@agent-leader` — Planning, supervision, progress tracking, and review
+- `@agent-teacher` — Q&A, explanation, and note organization
+
 ## Documentation
 
 - [Quick Start Guide](setup/quick-start.md) - 5-minute setup
