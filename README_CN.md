@@ -62,6 +62,12 @@ AI 会问你问题，并自动创建你的画像文件。
 让我汇报今天的进度。读取 workflow/planning/current-stage.md 中的当前计划。
 ```
 
+**Claude Code 用户：**
+
+StudyFlow 内置两个 agent，复制 `agents/` 目录到项目的 `.claude/agents/` 即可使用：
+- `@agent-leader` — 规划、监督、复盘、进度追踪
+- `@agent-teacher` — 答疑、讲解、笔记整理
+
 ## 文档
 
 - [快速开始指南](setup/quick-start.md) - 5 分钟上手
