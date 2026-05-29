@@ -73,21 +73,12 @@ Let me report today's progress. Read my current plan in workflow/planning/curren
 
 StudyFlow uses a layered architecture:
 
-```
-┌─────────────────────────────────────────────────┐
-│                 Scenes (Optional)                │
-│         Exam Prep / Skill Building / Language    │
-├─────────────────────────────────────────────────┤
-│                 Content (Optional)               │
-│         Notes / Mistakes / Practice Records      │
-├─────────────────────────────────────────────────┤
-│                 Workflow (Core)                   │
-│         Plans / Journals / Reviews / Queues      │
-├─────────────────────────────────────────────────┤
-│                 Core (Required)                   │
-│         User Profile / AI Rules / Collection     │
-└─────────────────────────────────────────────────┘
-```
+| Layer | Required | Components | Purpose |
+|-------|----------|------------|---------|
+| **Scenes** | Optional | Exam Prep / Skill Building / Language Learning | Pre-built templates for specific use cases |
+| **Content** | Optional | Notes / Mistakes / Practice Records | Knowledge management |
+| **Workflow** | Core | Plans / Journals / Reviews / Queues | Learning process management |
+| **Core** | Required | User Profile / AI Rules / Collection | Foundation for AI collaboration |
 
 - **Core (Required)**: User profile, AI collaboration rules, information collection
 - **Workflow (Core)**: Plans, journals, reviews, spaced repetition queues
