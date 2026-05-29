@@ -1,5 +1,7 @@
 # StudyFlow
 
+[中文版](README_CN.md)
+
 > An open-source AI learning collaboration system that works with any AI tool.
 
 StudyFlow helps you plan, track, and improve your learning with AI assistance. It's a pure Markdown system — no software to install, no accounts to create. Just files and an AI tool of your choice.
