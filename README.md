@@ -30,14 +30,8 @@ Or download the ZIP and extract it.
 
 StudyFlow works with any AI tool:
 - ChatGPT Codex
-- Claude Code (with built-in agent support)
+- Claude Code
 - Any other AI tool
-
-**For Claude Code users:** StudyFlow includes two pre-built agents:
-- `@agent-leader` - Planning, supervision, progress tracking, and review
-- `@agent-teacher` - Q&A, explanation, and note organization
-
-Copy the files from `agents/` to your project's `.claude/agents/` directory to enable them.
 
 ### 3. Initialize Your Profile
 
