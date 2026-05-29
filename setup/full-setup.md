@@ -46,7 +46,7 @@ studyflow/
 ### Step 1: Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/studyflow.git
+git clone https://github.com/ZBHD/StudyFlow.git
 cd studyflow
 ```
 

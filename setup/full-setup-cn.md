@@ -13,7 +13,7 @@
 ```bash
 # 把 StudyFlow 作为 submodule 引用
 cd your-study-folder
-git submodule add https://github.com/your-username/studyflow.git .studyflow
+git submodule add https://github.com/ZBHD/StudyFlow.git .studyflow
 
 # 复制核心文件到你的目录
 cp -r .studyflow/core .
